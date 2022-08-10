@@ -1,0 +1,3 @@
+Concepto oforma de escribir un nombre:
+- upper camel case: PresionarBotonGuardar
+- lower camel case: presionarBotonGuardar
